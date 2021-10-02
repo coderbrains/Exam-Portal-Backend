@@ -1,4 +1,8 @@
 HELP.md
+build.gradle
+gradlew.bat
+gradlew
+README.md
 .classpath
 .project
 build.gradle
