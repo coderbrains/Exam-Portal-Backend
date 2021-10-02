@@ -1,4 +1,9 @@
 HELP.md
+.classpath
+.project
+build.gradle
+gradlew.bat
+gradlew
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
